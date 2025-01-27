@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **react, react native, java script, cms tools, figma and canva**
 
-- 📫 How to reach me **venumakaraju0163@gmail.com**
+- 📫 How to reach me **venumakaraju@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
