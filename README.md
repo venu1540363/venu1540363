@@ -3,15 +3,9 @@
 
 - 🔭 I’m currently working on **HRMS tools**
 
-- 🌱 I’m currently learning **Powerapps**
-
-- 👯 I’m looking to collaborate on [Nx Venue Innovation Hackathon](https://nxvenue.hackerearth.com/)
-
-- 🤝 I’m looking for help with **Quantum Computing**
+- 🤝 I’m looking for help with **Automation jobs**
 
 - 👨‍💻 All of my projects are available at [Github](Github)
-
-- 📝 I regularly write articles on [Medium](Medium)
 
 - 💬 Ask me about **react, react native, java script, cms tools, figma and canva**
 
