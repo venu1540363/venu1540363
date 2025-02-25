@@ -5,7 +5,7 @@
 
 - 🤝 I’m looking for help with **Automation jobs**
 
-- 👨‍💻 All of my projects are available at [Github](Github)
+- 👨‍💻 All of my projects are available at [[Github](https://github.com/venu1540363)](Github)
 
 - 💬 Ask me about **react, react native, java script, cms tools, figma and canva**
 
